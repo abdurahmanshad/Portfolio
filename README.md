@@ -32,9 +32,7 @@ The portfolio website is designed to present my projects, achievements, and skil
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap (optional)
-- jQuery (optional)
-- [Any other technologies or frameworks you have used]
+- Bootstrap
 
 ## Setup and Installation
 
